@@ -10,7 +10,7 @@ Model exploration was done using the Dataiku AutoML platform with the cleaned in
 
 1. **PNI_001_cleaned.csv** - preprocessed dataset which is the input for model
 
-2. **PNI_all_features_raw.csv** - raw data for all genes and patients
+2. **PNI_all_features_raw.csv** - raw data for all genes and patients (large file - not included in repo)
 
 3. **PNI_001_gene_list.csv** - list for subset of genes (PNI 001) 
 
