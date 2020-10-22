@@ -10,11 +10,13 @@ Model exploration was done using the Dataiku AutoML platform with the cleaned in
 
 1. **PNI_001_cleaned.csv** - preprocessed dataset which is the input for model
 
-2. **PNI_001_features_raw.csv** - raw gene data (no labels)
+2. **PNI_all_features_raw.csv** - raw data for all genes and patients
 
-3. **PNI_001_labels.csv** - raw PNI binary labels 
+3. **PNI_001_gene_list.csv** - list for subset of genes (PNI 001) 
 
-4. **unannotated_scored_pni001.csv** - unannotated dataset for model scoring
+4. **PNI_001_labels.csv** - PNI binary labels for patients
+
+5. **unannotated_scored_pni001.csv** - unannotated dataset for model scoring
 
 
 ## Notebooks 
